@@ -9,3 +9,8 @@ Home/Dashboard screen with example stats, cards, and bottom navigation
 
 All screens are UI-only, fully styled, and ready to run in Expo Go.
 The project is intended to demonstrate mobile UI design skills and is ideal for portfolio presentation. Screenshots and an optional demo video show the app in action.
+
+![Screenshot_20260208_163340_Video Player](https://github.com/user-attachments/assets/bfbe9684-c755-4fdc-8158-917c6de29a5b)
+![Screenshot_20260208_163145_Video Player](https://github.com/user-attachments/assets/f2495759-2e44-456d-8e7f-2728b7a8f0f9)
+![Screenshot_20260208_163231_Video Player](https://github.com/user-attachments/assets/00ae5530-a902-479d-84f4-589ae3eb667f)
+![Screenshot_20260208_163313_Video Player](https://github.com/user-attachments/assets/34ded30a-570d-466e-8aa1-88eb79724de1)
